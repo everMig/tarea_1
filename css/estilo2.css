@@ -1,0 +1,56 @@
+
+*{
+
+    margin: 0px;/* */
+    padding: 0px;
+}
+
+#cara{
+    width: 200px;
+    height: 200px;
+    background-color: #ffd699; /* Color de la piel */
+    
+    border-radius: 50%; /* Forma redonda */
+    ;
+    position: relative;
+}
+ 
+#ojoI{
+
+    width: 50px;
+      height: 50px;
+      background-color: rgb(196, 170, 2);
+      border-radius: 50%;
+      position: absolute;
+      top: 40px;
+      left: 30px
+}
+#ojoD{
+    width: 50px;
+      height: 50px;
+      background-color:rgb(196, 170, 2);
+      border-radius: 50%;
+      position: absolute;
+      top: 40px;
+      left: 30px
+}
+#nariz{
+    width: 20px;
+    height: 20px;
+    background-color: black ;
+    border-radius: 50%;
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+
+#boca{
+    width: 120px;
+      height: 60px;
+      border: 3px solid black;
+      border-bottom-left-radius: 80px;
+      border-bottom-right-radius: 80px;
+      position: absolute;
+      top: 120px;
+      left: 40px;
+}
